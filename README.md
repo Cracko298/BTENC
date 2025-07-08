@@ -1,10 +1,7 @@
 # BTENC
 - A custom encryption algorithm with variable key length support, that works differently from something like XOR Ciphers.
 
-# Why?
-- Haha- idek. I made my own Video and 3D Model Formats, so I decided a simple Encryption Cipher would be easy enough to make.
-
-# Usage: 
+## Usage: 
 ```
 py cli.py [MODE] [INPUT_FILE] [OUTPUT_FILE] [KEY]
 
@@ -19,3 +16,6 @@ Example Usage (Encrypting):
 Example Usage (Decrypting):
     py cli.py decrypt ".\MyEncryptedImage.enc" ".\DecryptedExampleImage.jpg" "My 'Very-Cool' Key :3"
 ```
+
+## Why?
+- Haha- idek. I made my own Video and 3D Model Formats, so I decided a simple Encryption Cipher would be easy enough to make.
