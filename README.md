@@ -18,4 +18,4 @@ Example Usage (Decrypting):
 ```
 
 ## Why?
-- Haha- idek. I made my own Video and 3D Model Formats, so I decided a simple Encryption Cipher would be easy enough to make.
+- Haha- idek. I made my own [Video](https://github.com/Cracko298/LVideo) and [3D Model](https://github.com/Cracko298/Better-Binary-Model-Format) Format(s), so I decided a simple Encryption Cipher would be easy enough to make.
